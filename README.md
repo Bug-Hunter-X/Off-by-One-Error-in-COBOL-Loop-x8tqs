@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that illustrates a common off-by-one error. The program initializes a counter and then uses a `PERFORM VARYING` loop to increment it. Due to the loop condition, the counter will not reach the expected value.  The solution demonstrates how to correct the condition to achieve the desired result.
